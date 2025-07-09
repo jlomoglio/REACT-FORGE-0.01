@@ -1,0 +1,30 @@
+{
+  "id": "1749093317510",
+  "projectId": "C:\\Users\\joelo\\DevLab\\ELECTRON LAB\\electron_react_pos",
+  "name": "TEST CHECKBOX LIST",
+  "created": 1749093317511,
+  "notes": [
+    {
+      "id": "note-1749565444457",
+      "name": "Test",
+      "created": 1749565444457,
+      "content": {
+        "root": {
+          "children": [
+            {
+              "type": "checklist-block",
+              "version": 1,
+              "items": []
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    }
+  ],
+  "trashed": true
+}
